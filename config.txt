@@ -1,0 +1,2 @@
+set file-dir /home/victor/dox/Notebooks
+set sync-courses none; M2.251.15331-45 MAG. Ampliación de Matemáticas 19/20-1C; M2.251.14164-45 MAG. Mecánica de Fluidos I 19/20-1C
